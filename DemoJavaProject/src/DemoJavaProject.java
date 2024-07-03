@@ -5,7 +5,7 @@ public class DemoJavaProject {
 	{
 		for (int i =0; i<10;i++)
 		{
-				System.out.println("Demo print ........ " + i);
+				System.out.println("Demo print ......... " + i);
 		}
 	}
 
